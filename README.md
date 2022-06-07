@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sucheta Singha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://monophy.com/gifs/transparent-rsUGLKwgSvSxmq1VrZ](https://drive.google.com/file/d/1DQvjHg2lfS1E1tI8mGJAQ300rbA-_PQp/view?usp=sharing)/>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIw3i3OT4ly9JHfy3wskZuvZiyejMLJ6al_rNb24Yb6A9Qfntjxae01I7SUAlTGjn4S4&usqp=CAU/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sucheta21&label=Profile%20views&color=0e75b6&style=flat" alt="sucheta21" /> </p>
 
 - 🔭 I’m currently working on [Special Olympics Bharat](https://app.specialolympicsbharat.com/)
