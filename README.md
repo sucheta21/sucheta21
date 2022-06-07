@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.pixabay.com/photo/2016/01/11/12/59/hills-1133546_960_720.jpg))]
+<img alt="Top" src="https://cdn.pixabay.com/photo/2016/01/11/12/59/hills-1133546_960_720.jpg" />
 <h1 align="center">Hi 👋, I'm Sucheta Singha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://monophy.com/media/rsUGLKwgSvSxmq1VrZ/monophy.gif" />
