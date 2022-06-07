@@ -1,21 +1,24 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sucheta Singha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://monophy.com/gifs/transparent-rsUGLKwgSvSxmq1VrZ/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sucheta21&label=Profile%20views&color=0e75b6&style=flat" alt="sucheta21" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@suchetasaha2" target="blank"><img src="https://img.shields.io/twitter/follow/@suchetasaha2?logo=twitter&style=for-the-badge" alt="@suchetasaha2" /></a> </p>
 
 - 🔭 I’m currently working on [Special Olympics Bharat](https://app.specialolympicsbharat.com/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Redux**
 
-- 📝 I regularly write articles on [https://medium.com/@sucheta0567](https://medium.com/@sucheta0567)
+- 🤝 I’m looking for help with **I’m looking for a job! See contact details below**
+
+- 📝 I write articles on [https://medium.com/@sucheta0567](https://medium.com/@sucheta0567)
 
 - 💬 Ask me about **MERN , PHP**
 
 - 📫 How to reach me **sucheta0567@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QyBim-c7HM-DJXoRrQnjdh_9jcY4-cpz/view?usp=sharing](https://drive.google.com/file/d/1QyBim-c7HM-DJXoRrQnjdh_9jcY4-cpz/view?usp=sharing)
+
+- ⚡ Fun fact **I love to drawing and crafting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
